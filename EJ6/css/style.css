@@ -42,18 +42,19 @@ ul{
 }
 
 .div{
-    background-color: #f8f3f3;
+    text-align: justify;
+    background: linear-gradient(to top, #eeeded, #ffffff, #eeeded);
     border: 1px solid;
     padding: 10px;
     border-color:rgb(189, 189, 189);
-    margin: 10px;
+    margin: 2%;
     padding-left: 20px; 
 }
 
 .home{
     padding: 10px;
     margin: 5px;
-    background: linear-gradient(rgba(255, 255, 255, 1), #f1ac76);
+    background: linear-gradient(to top, #f79e80, #ffffff, #f0f0ef);
     font-weight: bold;
     border: 1px solid;
 
@@ -73,7 +74,7 @@ a{
 .normal{
     padding: 10px;
     margin: 5px;
-    background: linear-gradient(rgba(255, 255, 255, 1), rgb(173, 241, 118));
+    background: linear-gradient(to top, #a6f780, #ffffff, #f0f0ef);
     font-weight: bold;
     border: 1px solid;
 }
