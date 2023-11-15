@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(236, 241, 171);
+    margin: 0px;
+}
+
+h1{
+    color: rgb(17, 17, 17);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fcae08;
+    margin: 0px;
+}
+
+h2{
+    color: rgb(23, 146, 202);
+    font-size: 25px;
+    font-style: italic;
+}
+
+p{
+    color: rgb(23, 146, 202);
+    font-style: italic;
+
+}
+
+h3{
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(23, 146, 202);
+}
+
+.titulos{
+    color: rgb(23, 146, 202);
+    margin: 0;
+}
+
+.valores{
+    color: rgb(17, 17, 17);
+    margin: 0;
+    font-style: normal
+}
+
+.removeMargin{
+    margin: 0px;
+}
+
+
