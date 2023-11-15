@@ -1,13 +1,11 @@
-body{
-    
-}
-
 img{
-    
+    margin-left: 20%;
 }
 
 h1{
+    margin-top: 3px;
     text-align: center;
+    margin-bottom: 3px;
 }
 h2{
     color: rgb(70, 202, 70);
@@ -20,12 +18,17 @@ h3{
 
 ul{
     list-style: none;
+    width: 140px;
+    margin: 10%;
+    padding: 0%;
 }
 
 .greenText{
+    letter-spacing: 4px;
     color: rgb(28, 126, 28);
 }
 .yellText{
+    letter-spacing: 4px;
     color: rgb(201, 148, 15);
 }
 
@@ -43,7 +46,7 @@ ul{
 
 .div{
     text-align: justify;
-    background: linear-gradient(to top, #eeeded, #ffffff, #eeeded);
+    background: linear-gradient(to top, #e6e2e2 0%, #ffffff 10%, #ffffff 90%, #eee9e9 100%);
     border: 1px solid;
     padding: 10px;
     border-color:rgb(189, 189, 189);
@@ -84,7 +87,8 @@ a{
 }
 
 .footer{
-    padding-left: 41%;
+    margin-top: 3px;
+    padding-left: 37%;
     font-style: italic;
     font-weight: bold;
     color: rgb(212, 211, 211);
