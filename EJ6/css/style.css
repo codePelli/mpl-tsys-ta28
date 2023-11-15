@@ -57,14 +57,15 @@ ul{
 .home{
     padding: 10px;
     margin: 5px;
-    background: linear-gradient(to top, #f79e80, #ffffff, #f0f0ef);
+    background: linear-gradient(to top, #a6f780, #ffffff, #f0f0ef);
     font-weight: bold;
     border: 1px solid;
 
 }
 
 .home:hover{
-    background-color: #f79e80;
+    background: none;
+    background-color: #f36637;
 }
 
 a{
@@ -83,7 +84,8 @@ a{
 }
 
 .normal:hover{
-    background-color:#c0f53b ;
+    background: none;
+    background-color:#f36637 ;
 }
 
 .footer{
