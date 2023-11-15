@@ -53,7 +53,10 @@ ul{
 .home{
     padding: 10px;
     margin: 5px;
-    background-color:#eec08c;
+    background: linear-gradient(rgba(255, 255, 255, 1), #f1ac76);
+    font-weight: bold;
+    border: 1px solid;
+
 }
 
 .home:hover{
@@ -70,9 +73,19 @@ a{
 .normal{
     padding: 10px;
     margin: 5px;
-    background-color:#c6f05d;
+    background: linear-gradient(rgba(255, 255, 255, 1), rgb(173, 241, 118));
+    font-weight: bold;
+    border: 1px solid;
 }
 
 .normal:hover{
     background-color:#c0f53b ;
+}
+
+.footer{
+    padding-left: 35%;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(212, 211, 211);
+    font-size: small;
 }
